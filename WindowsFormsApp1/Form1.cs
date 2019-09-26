@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
         // on button click 
         private void button1_Click(object sender, EventArgs e)
         {
-            //calls the SayHello method when the button is pressed
+            //calls the helloWorld method when the button is pressed
             helloWorld();  
         }
         // method to creat a message box with a message displayeed inside
